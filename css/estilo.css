@@ -4,8 +4,7 @@
 }
 
 body{
-	font-family: 'Quicksand', sans-serif;
-	font-family: 'Lobster', cursive;
+	font-family: 'Montserrat', Helvetica, Arial, sans-serif;
 	font-weight:400;
 	background:rgba(255,255,255,1);
 	color:rgba(255,255,255,1);
@@ -129,23 +128,23 @@ video{
 	}
 
 @-webkit-keyframes fondo {
-	from {background-color:rgba(241,230,210,1);}
-	to {background-color:rgba(231,240,239,1);}
+	from {background-color:rgba(255,204,204,1);}
+	to {background-color:rgba(0,0,0,1);}
 }
 
 @-moz-keyframes fondo {
-	from {background-color:rgba(241,230,210,1);}
-	to {background-color:rgba(231,240,239,1);}
+	from {background-color:rgba(255,204,204,1);}
+	to {background-color:rgba(0,0,0,1);}
 }
 
 @-ms-keyframes fondo {
-	from {background-color:rgba(241,230,210,1);}
-	to {background-color:rgba(231,240,239,1);}
+	from {background-color:rgba(255,204,204,1);}
+	to {background-color:rgba(0,0,0,1);}
 }
 
 @keyframes fondo {
-	from {background-color:rgba(241,230,210,1);}
-	to {background-color:rgba(231,240,239,1);}
+	from {background-color:rgba(255,204,204,1);}
+	to {background-color:rgba(0,0,0,1);}
 }
 
 .item {
